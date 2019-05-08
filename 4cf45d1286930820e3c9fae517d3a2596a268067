@@ -1,0 +1,1 @@
+{"jobID":"9fa4d2f4-e194-f3ba-7c3a-d6fc4ba7c183","spec":{"type":"policy","cause":{"Message":"","User":"Colm Tolan \u003cc_tolan@hotmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
